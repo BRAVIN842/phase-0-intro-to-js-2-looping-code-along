@@ -15,8 +15,4 @@ function writeCards(names, event) {
     }
   }
   
-  module.exports = {
-    writeCards,
-    countDown,
-  };
   
